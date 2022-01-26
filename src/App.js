@@ -1,10 +1,14 @@
-import logo from './logo.svg';
+import react from 'react';
+import profileImage from './img/profile-image.jpg'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <h1>React App Demo CSAcademy</h1>
+      <h2>Teste Mario Barbosa</h2>
+      <img src={profileImage} alt="profile-image" />
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -17,7 +21,7 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      </header> */}
     </div>
   );
 }
