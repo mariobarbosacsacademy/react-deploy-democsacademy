@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-deploy-democsacademy/static/css/main.27b98cc3.css",
+    "main.js": "/react-deploy-democsacademy/static/js/main.0f08426e.js",
+    "static/js/787.d6cb1aba.chunk.js": "/react-deploy-democsacademy/static/js/787.d6cb1aba.chunk.js",
+    "static/media/profile-image.jpg": "/react-deploy-democsacademy/static/media/profile-image.54c0e485d03c86109142.jpg",
+    "index.html": "/react-deploy-democsacademy/index.html",
+    "main.27b98cc3.css.map": "/react-deploy-democsacademy/static/css/main.27b98cc3.css.map",
+    "main.0f08426e.js.map": "/react-deploy-democsacademy/static/js/main.0f08426e.js.map",
+    "787.d6cb1aba.chunk.js.map": "/react-deploy-democsacademy/static/js/787.d6cb1aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27b98cc3.css",
+    "static/js/main.0f08426e.js"
+  ]
+}
